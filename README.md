@@ -1,6 +1,12 @@
-# Welcome to GitHub Desktop!
+# 🔫 Shooter Game
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Welcome to **Shooter Game**, an action-packed first-person shooter where you battle enemies, complete missions, and prove your skills in a fast-paced environment! 🚀
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-gracias por usar 
+---
+
+## 🎮 Features
+- **Dynamic Gameplay**: Face waves of enemies with increasing difficulty.
+- **Weapon Arsenal**: Choose from a variety of weapons, including rifles, shotguns, and explosives.
+- **Immersive Levels**: Explore unique maps with challenging terrains and hidden secrets.
+- **Power-ups**: Collect health packs, ammo, and special abilities during the game.
+- **Multiplayer Mode**: Team up or compete with friends online.
